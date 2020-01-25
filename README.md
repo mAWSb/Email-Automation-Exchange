@@ -11,7 +11,7 @@ You will need to utilize the following in addition to the script:
 - Mailbox enabled service account.  
 - CSV file which contains the emails you want to send to.
 - Text file which will contain the contents of the email message, formatted in HTML.
-- 3rd party WindowsCredential PS Module to be installed on the system the script is ran.  Run this command to install it 
+- 3rd party WindowsCredential PS Module to be installed on the system the script is ran.
 
 #Deploying
 - Build CSV file and HTML content file (Templates located in repository)
