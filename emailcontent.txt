@@ -1,0 +1,9 @@
+<p>[Name], <br/>  
+<br/>
+ADD MESSAGE BODY HERE, KEEP HTML FORMATTING. <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+OPTIONAL: ADD EMAIL SIGNATURE HERE IF NEEDED. 
+<p>
